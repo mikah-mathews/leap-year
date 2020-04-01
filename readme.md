@@ -33,6 +33,11 @@ JavaScript
 Bootstrap
 jQuery
 
+### Specs
+| The program should return when a year is not a leap year. | The program should return 'true' for years divisible by 4, since those are leap years. | The program should return 'false' for years divisible by 100, since those are not leap years. | The program should return 'true' for years divisible by 400, since those are leap years. |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Input Example: 1993                                       | Input Example: 2004                                                                    | Input Example: 1900                                                                           | Input Example: 2000                                                                      |
+| Output Example: false                                     | Output Example: true                                                                   | Output Example: false                                                                         | Output Example: true                                                                     |
 ### License
 
 This software is licensed under the MIT license.
